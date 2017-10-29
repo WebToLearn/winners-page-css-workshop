@@ -1,4 +1,4 @@
-CSS Workshop 1
+CSS Workshop - Winners Page
 ==============
 
 The first in a series of workshops for learning CSS.
@@ -24,7 +24,7 @@ Every exercise folder uses an express server with webpack dev server that serves
 This is the simple way to get the project. It will download all files.
 
 ```sh
-git clone https://github.com/cristiansarov/CSSWorkshop1.git
+git clone https://github.com/bmnicolae/CSS-Workshop-Winners-Page.git
 ```
 
 ## Run an exercise
